@@ -1,0 +1,4 @@
+Welcome to PHP
+This is the Language of The Hyper Preprocessor
+
+Let's get Started
